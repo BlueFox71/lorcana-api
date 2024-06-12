@@ -7,7 +7,10 @@ const cors = require("cors");
 
 app.use(cors());
 
-// Endpoint GET avec queryParams
+app.get("/", (req, res) => {
+  res.send("Bienvenue dans Lorcana-API");
+});
+
 app.get("/api/cards", (req, res) => {
   const {
     colors,
