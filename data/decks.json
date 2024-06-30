@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "user": "Jules",
+      "color1": "Améthyste",
+      "color2": "Rubis",
+      "name": "R/V Attack & Récolte",
+      "inventoryCountedInDeck": true,
+      "cards": [
+        {
+          "id": "1_48",
+          "quantity": 4
+        },
+        {
+          "id": "1_49",
+          "quantity": 4
+        },
+        {
+          "id": "1_64",
+          "quantity": 4
+        },
+        {
+          "id": "1_104",
+          "quantity": 4
+        },
+        {
+          "id": "1_105",
+          "quantity": 4
+        },
+        {
+          "id": "1_114",
+          "quantity": 4
+        },
+        {
+          "id": "1_115",
+          "quantity": 4
+        },
+        {
+          "id": "1_120",
+          "quantity": 4
+        },
+        {
+          "id": "1_128",
+          "quantity": 4
+        },
+        {
+          "id": "1_130",
+          "quantity": 4
+        },
+        {
+          "id": "2_46",
+          "quantity": 4
+        },
+        {
+          "id": "2_51",
+          "quantity": 4
+        },
+        {
+          "id": "2_52",
+          "quantity": 4
+        },
+        {
+          "id": "2_56",
+          "quantity": 1
+        },
+        {
+          "id": "2_110",
+          "quantity": 4
+        },
+        {
+          "id": "2_126",
+          "quantity": 4
+        },
+        {
+          "id": "3_123",
+          "quantity": 3
+        }
+      ],
+      "countCards": 64,
+      "colors": [
+        "Améthyste",
+        "Rubis"
+      ],
+      "id": 1
+    }
+  ]
+}
